@@ -22,5 +22,5 @@ Data Extraction: Targets specific HTML elements containing movie information and
 Data Processing: Uses Pandas to create a DataFrame and store the extracted movie data.
 Output: Saves the processed movie data into a CSV file for further analysis or integration.
 
-/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 Contributions and feedback are welcome! Please feel free to open issues or submit pull requests for enhancements or bug fixes to further improve the functionality and utility of this project.
